@@ -23,6 +23,6 @@ export default async function handler(
   });
 
   const data = await response.json();
-
+  console.log(data);
   res.redirect(`http://localhost:3000/middleware?access_token=${data.access_token}&refresh_token=${data.refresh_token}`);
 }
