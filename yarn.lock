@@ -1960,6 +1960,11 @@ sourcemap-codec@^1.4.8:
   resolved "https://registry.npmjs.org/sourcemap-codec/-/sourcemap-codec-1.4.8.tgz"
   integrity sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==
 
+spotify-web-api-js@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.npmjs.org/spotify-web-api-js/-/spotify-web-api-js-1.5.2.tgz"
+  integrity sha512-ie1gbg1wCabfobIkXTIBLUMyULS/hMCpF44Cdx2pAO0/+FrjhNSDjlDzcwCEDy+ZIo3Fscs+Gkg/GTeQ/ijo+Q==
+
 stack-generator@^2.0.5:
   version "2.0.10"
   resolved "https://registry.npmjs.org/stack-generator/-/stack-generator-2.0.10.tgz"

@@ -11,10 +11,10 @@
 
 }
 .mainimage {
-    padding-top: 2.5%;
-    width: 35%;
+    width: 25%;
     height: auto;
     border-radius: 16px;
+
 }
 .slider {
     display: flex;
